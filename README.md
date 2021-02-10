@@ -39,18 +39,18 @@ This theme was highly inspired by the [hello-friend](https://github.com/panr/hug
 
 ## How to start
 
-You can download the theme manually by going to [https://github.com/rhazdon/hugo-theme-hello-friend-ng.git](https://github.com/rhazdon/hugo-theme-hello-friend-ng.git) and pasting it to `themes/hello-friend-ng` in your root directory.
+You can download the theme manually by going to [https://github.com/sengmitnick/hugo-theme-hello-friend-ng.git](https://github.com/sengmitnick/hugo-theme-hello-friend-ng.git) and pasting it to `themes/hello-friend-ng` in your root directory.
 
 You can also clone it directly to your Hugo folder:
 
 ``` bash
-$ git clone https://github.com/rhazdon/hugo-theme-hello-friend-ng.git themes/hello-friend-ng
+$ git clone https://github.com/sengmitnick/hugo-theme-hello-friend-ng.git themes/hello-friend-ng
 ```
 
 If you don't want to make any radical changes, it's the best option, because you can get new updates when they are available. To do so, include it as a git submodule:
 
 ``` bash
-$ git submodule add https://github.com/rhazdon/hugo-theme-hello-friend-ng.git themes/hello-friend-ng
+$ git submodule add https://github.com/sengmitnick/hugo-theme-hello-friend-ng.git themes/hello-friend-ng
 ```
 
 ## How to configure
@@ -175,10 +175,10 @@ Just edit it. You don't need any node stuff. ;)
 ## Sponsoring
 
 If you like my work and if you think this project is worth to support it, just <br />
-<a href="https://www.buymeacoffee.com/djordjeatlialp" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-green.png" alt="Buy Me A Coffee" style="height: 51px !important;width: 217px !important;" ></a>
+<a href="https://www.buymeacoffee.com/sengmitnick" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-green.png" alt="Buy Me A Coffee" style="height: 51px !important;width: 217px !important;" ></a>
 
 ## Licence
 
 Copyright © 2019-2021 Djordje Atlialp
 
-The theme is released under the MIT License. Check the [original theme license](https://github.com/rhazdon/hugo-theme-hello-friend-ng/blob/master/LICENSE.md) for additional licensing information.
+The theme is released under the MIT License. Check the [original theme license](https://github.com/sengmitnick/hugo-theme-hello-friend-ng/blob/master/LICENSE.md) for additional licensing information.
