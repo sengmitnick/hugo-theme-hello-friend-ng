@@ -2,8 +2,11 @@
 {{ $caption := .Get "caption"}}
 {{ with $.Page.Resources.GetMatch (.Get "name") }}
   <figure>
-    <img src="{{.RelPermalink}}" alt="{{$altText}}"/>
-    <figcaption><p>{{ $caption }}</p></figcaption>
+    <a href="{{.RelPermalink}}" target="_blank">
+      <img src="{{.RelPermalink}}" alt="{{$altText}}"/>
+      <figcaption><p>{{ $caption }}</p></figcaption>
+    </a>
+    
   </figure>
 {{ else }}
   could not find image
